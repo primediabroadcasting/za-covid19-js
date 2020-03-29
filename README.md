@@ -20,9 +20,13 @@ Simply add this code to you page:
 
 `<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/allank/za-covid19-js/covidbar-latest.min.js"></script>`
 
+*Note* jsdelivr may serve an older cached version of the file.  Please host these files yourself if you would like the very latest version.  Currently cached version provides English support only, Afrikaans is available in latest JS.
+
 You can add optional URL parameters to control some elements of the bar:
 
-`forceLang` will force the bar to use the language you specify.  Currently only `en` is supported, more to follow.
+`forceLang` will force the bar to use the language you specify.  Currently only `en` and `af` are supported, more to follow.
+
+![Afrikaans](images/lang-af.png "Afrikaans")
 
 `top=1` will make the bar appear at the top of the page as a header.  Default is a footer.
 
