@@ -22,7 +22,7 @@ function setupCovidBar() {
   var scriptPath = getScriptPath();
   var CovidBar;
 
-
+    console.log("inside setupCovidBar");
     initCovidBar();
 
   /**
@@ -210,6 +210,13 @@ function setupCovidBar() {
   }
 }
 
-document.addEventListener('DOMContentLoaded', function() {
-  setupCovidBar();
-});
+if (document.readyState === "uninitialized" || document.readyState === "loading") {
+  document.addEventListener('DOMContentLoaded', function() {
+    setupCovidBar();
+  });
+}
+else
+{
+  // document.readyState == loaded, interactive or complete (thanks Bruce!)
+  setupCovidBar(); 
+}
