@@ -20,6 +20,8 @@ Simply add this code to you page:
 
 `<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/primediabroadcasting/za-covid19-js/covidbar-latest.min.js"></script>`
 
+This also works as a Custom HTML tag inside a Google Tag Manager container.
+
 You can add optional URL parameters to control some elements of the bar:
 
 `forceLang` will force the bar to use the language you specify.  Currently only `en` and `af` are supported, more to follow.
