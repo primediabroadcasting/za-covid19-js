@@ -24,6 +24,8 @@ You can add optional URL parameters to control some elements of the bar:
 
 `forceLang` will force the bar to use the language you specify.  Currently only `en` and `af` are supported, more to follow.
 
+`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/primediabroadcasting/za-covid19-js/covidbar-latest.min.js?forceLang=af"></script>`
+
 ![Afrikaans](images/lang-af.png "Afrikaans")
 
 `top=1` will make the bar appear at the top of the page as a header.  Default is a footer.
