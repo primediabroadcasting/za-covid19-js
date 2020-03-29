@@ -1,7 +1,7 @@
 za-covid19-js
 =============
 
-za-covid19-js is a free solution for implementing a link to the www.sacoronvirus.co.za website, as legislated by the Minister of Communications and Digital Technologies.
+za-covid19-js is a free solution for implementing a link to the www.sacoronavirus.co.za website, as legislated by the Minister of Communications and Digital Technologies.
 
 This solution is based entirely on the [cookieBAR](https://cookie-bar.eu/) code.  CookieBAR is licensed under GNU General Public License v2.0, and as such, so is this code.
 
