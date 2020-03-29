@@ -27,3 +27,9 @@ You can add optional URL parameters to control some elements of the bar:
 `top=1` will make the bar appear at the top of the page as a header.  Default is a footer.
 
 `theme` controls how it looks.  Choose one of `altblack`, `grey`, `momh` or `white`.  Default (no theme specified) is black.
+
+![default](images/theme-black "Default theme")
+![theme=altblack](images/theme-black "theme=altblack")
+![theme=grey](images/theme-black "theme=grey")
+![theme=momh](images/theme-black "theme=momh")
+![theme=white](images/theme-black "white")
