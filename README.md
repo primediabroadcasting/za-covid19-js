@@ -29,7 +29,7 @@ You can add optional URL parameters to control some elements of the bar:
 `theme` controls how it looks.  Choose one of `altblack`, `grey`, `momh` or `white`.  Default (no theme specified) is black.
 
 ![default](images/theme-black.png "Default theme")
-![theme=altblack](images/theme-black.png "theme=altblack")
-![theme=grey](images/theme-black.png "theme=grey")
-![theme=momh](images/theme-black.png "theme=momh")
-![theme=white](images/theme-black.png "white")
+![theme=altblack](images/theme-altblack.png "theme=altblack")
+![theme=grey](images/theme-grey.png "theme=grey")
+![theme=momh](images/theme-momh.png "theme=momh")
+![theme=white](images/theme-white.png "white")
