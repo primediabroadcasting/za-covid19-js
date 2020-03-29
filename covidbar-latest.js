@@ -1,5 +1,6 @@
 /*
   Plugin Name: ZA Covid-19 Bar
+  Plugin URL: https://github.com/primediabroadcasting/za-covid19-js
   @description: za-covid19-js is a free solution for implementing a link to the www.sacoronvirus.co.za website
 */
 
