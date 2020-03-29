@@ -18,7 +18,7 @@ The full text PDF of the gazette is available [here](https://www.gov.za/sites/de
 
 Simply add this code to you page:
 
-`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/allank/za-covid19-js/covidbar-latest.min.js"></script>`
+`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/primediabroadcasting/za-covid19-js/covidbar-latest.min.js"></script>`
 
 *Note* jsdelivr may serve an older cached version of the file.  Please host these files yourself if you would like the very latest version.  Currently cached version provides English support only, Afrikaans is available in latest JS.
 
