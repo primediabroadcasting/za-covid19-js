@@ -22,7 +22,6 @@ function setupCovidBar() {
   var scriptPath = getScriptPath();
   var CovidBar;
 
-    console.log("inside setupCovidBar");
     initCovidBar();
 
   /**
