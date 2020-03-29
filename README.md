@@ -17,4 +17,14 @@ The full text PDF of the gazetter is available [here](https://www.gov.za/sites/d
 
 ##### Usage and configuration
 
-TODO: when jsdelivr links are live, use those
+Simply add this code to you page:
+
+`<script type="text/javascript" src="https://cdn.jsdelivr.net/gh/allank/za-covid19-js/covidbar-latest.min.js"></script>`
+
+You can add optional URL paramters to control some elements of the bar:
+
+`forceLang` will force the bar to use the language you specify.  Currently only `en` is supported, more to follow.
+
+`top=1` will make the bar appear at the top of the page as a header.  Default is a footer.
+
+`theme` controls how it looks.  Choose one of `altblack`, `grey`, `momh` or `white`.  Default (no theme specified) is black.
